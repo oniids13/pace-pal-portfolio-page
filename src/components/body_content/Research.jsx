@@ -73,6 +73,28 @@ const Research = () => {
           </div>
         </div>
         <div className="bg-white p-8 rounded-lg shadow-lg">
+          <h2 className="text-2xl font-bold mb-6 text-center">Interview</h2>
+          <p className="text-gray-600 mb-8 text-base pt-10 max-w-4xl mx-auto text-justify">
+            To better understand our potential users, I interviewed 4 runners
+            from different age brackets and running styles. The interviews were
+            semi-structured with open-ended questions, allowing participants to
+            think out loud and share details about their running habits,
+            challenges in finding partners, and how they currently coordinate
+            runs. From the interviews, I found that casual runners often
+            struggled with motivation when running alone, while more experienced
+            runners worried about pace mismatches and scheduling conflicts.
+          </p>
+          <p className="text-gray-600 mb-8 text-base pt-10 max-w-4xl mx-auto text-justify">
+            Therefore,{" "}
+            <strong>
+              our target users would be casual and recreational runners,
+              especially students and young professionals
+            </strong>{" "}
+            who are looking for consistent motivation and easier ways to
+            coordinate runs.
+          </p>
+        </div>
+        <div className="bg-white p-8 rounded-lg shadow-lg">
           <h2 className="text-2xl font-bold mb-6 text-center">
             Persona Development
           </h2>
