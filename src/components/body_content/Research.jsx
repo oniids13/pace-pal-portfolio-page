@@ -94,6 +94,20 @@ const Research = () => {
             />
           </div>
         </div>
+        <div className="bg-white p-8 rounded-lg shadow-lg">
+          <h2 className="text-2xl font-bold mb-6 text-center">
+            Reframe Design Question
+          </h2>
+          <p className="text-gray-600 mb-8 text-base pt-10 max-w-4xl mx-auto text-justify">
+            The above findings helped us further narrow down our problem
+            statement, so we came up with our final design question:
+          </p>
+          <p className="text-sky-800 mb-8 text-2xl pt-10 max-w-4xl mx-auto text-justify">
+            How might we help runners of all ages and abilities easily find
+            compatible running partners and schedule runs that fit their pace,
+            time, and location?
+          </p>
+        </div>
       </div>
     </div>
   );

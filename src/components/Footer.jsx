@@ -35,8 +35,7 @@ const Footer = () => {
           {/* Text on the right */}
           <div>
             <p className="text-sm">
-              Designed by: Jose Dino Abaya {new Date().getFullYear()}. All
-              rights reserved.
+              Designed by: Jose Dino Abaya in 2025. All rights reserved.
             </p>
           </div>
         </div>
