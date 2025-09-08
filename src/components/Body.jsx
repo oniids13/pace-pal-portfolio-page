@@ -1,5 +1,6 @@
 import Heading from "./body_content/Heading";
 import Background from "./body_content/Background";
+import Research from "./body_content/Research";
 
 const Body = () => {
   return (
@@ -8,6 +9,7 @@ const Body = () => {
         <div className="card-body mx-auto">
           <Heading />
           <Background />
+          <Research />
         </div>
       </div>
     </div>
