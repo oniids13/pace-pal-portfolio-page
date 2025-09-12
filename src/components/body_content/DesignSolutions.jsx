@@ -51,6 +51,101 @@ const DesignSolutions = () => {
             />
           </div>
         </div>
+        <div className="bg-white p-8 rounded-lg shadow-lg">
+          <h2 className="text-2xl font-bold mb-6 text-center">
+            High Fidelity Mockups
+          </h2>
+          <p className="text-gray-600 mb-8 text-base max-w-4xl mx-auto text-center">
+            After usability testing the low fidelity wireframes, I made changes
+            to the wireframes and created high fidelity mockups using Figma.
+          </p>
+          <div className="grid grid-cols-3 gap-4 justify-items-center">
+            <img
+              className="border-2 border-gray-300 w-full max-w-60 h-auto object-contain rounded-lg shadow-md"
+              src="/src/images/HiFi1.png"
+              alt="High Fidelity Mockup 1"
+            />
+            <img
+              className="border-2 border-gray-300 w-full max-w-60 h-auto object-contain rounded-lg shadow-md"
+              src="/src/images/HiFi2.png"
+              alt="High Fidelity Mockup 2"
+            />
+            <img
+              className="border-2 border-gray-300 w-full max-w-60 h-auto object-contain rounded-lg shadow-md"
+              src="/src/images/HiFi3.png"
+              alt="High Fidelity Mockup 3"
+            />
+            <img
+              className="border-2 border-gray-300 w-full max-w-60 h-auto object-contain rounded-lg shadow-md"
+              src="/src/images/HiFi4.png"
+              alt="High Fidelity Mockup 4"
+            />
+            <img
+              className="border-2 border-gray-300 w-full max-w-60 h-auto object-contain rounded-lg shadow-md"
+              src="/src/images/HiFi5.png"
+              alt="High Fidelity Mockup 5"
+            />
+            <img
+              className="border-2 border-gray-300 w-full max-w-60 h-auto object-contain rounded-lg shadow-md"
+              src="/src/images/HiFi6.png"
+              alt="High Fidelity Mockup 6"
+            />
+            <img
+              className="border-2 border-gray-300 w-full max-w-60 h-auto object-contain rounded-lg shadow-md"
+              src="/src/images/HiFi7.png"
+              alt="High Fidelity Mockup 7"
+            />
+            <img
+              className="border-2 border-gray-300 w-full max-w-60 h-auto object-contain rounded-lg shadow-md"
+              src="/src/images/HiFi8.png"
+              alt="High Fidelity Mockup 8"
+            />
+            <img
+              className="border-2 border-gray-300 w-full max-w-60 h-auto object-contain rounded-lg shadow-md"
+              src="/src/images/HiFi9.png"
+              alt="High Fidelity Mockup 9"
+            />
+          </div>
+        </div>
+        <div className="bg-white p-8 rounded-lg shadow-lg">
+          <h2 className="text-2xl font-bold mb-6 text-center">Visual Design</h2>
+          <p className="text-gray-600 mb-8 text-base max-w-4xl mx-auto text-center">
+            Color Scheme
+          </p>
+          <div className="grid grid-cols-2 sm:grid-cols-4 gap-8 justify-items-center">
+            <div className="flex flex-col items-center">
+              <div
+                className="w-16 h-16 rounded-full shadow-lg border-2 border-gray-200"
+                style={{ backgroundColor: "#2D9CDB" }}
+              ></div>
+              <p className="mt-3 text-sm font-mono text-gray-700">#2D9CDB</p>
+            </div>
+            <div className="flex flex-col items-center">
+              <div
+                className="w-16 h-16 rounded-full shadow-lg border-2 border-gray-200"
+                style={{ backgroundColor: "#27AE60" }}
+              ></div>
+              <p className="mt-3 text-sm font-mono text-gray-700">#27AE60</p>
+            </div>
+            <div className="flex flex-col items-center">
+              <div
+                className="w-16 h-16 rounded-full shadow-lg border-2 border-gray-200"
+                style={{ backgroundColor: "#F2994A" }}
+              ></div>
+              <p className="mt-3 text-sm font-mono text-gray-700">#F2994A</p>
+            </div>
+            <div className="flex flex-col items-center">
+              <div
+                className="w-16 h-16 rounded-full shadow-lg border-2 border-gray-200"
+                style={{ backgroundColor: "#FF0000" }}
+              ></div>
+              <p className="mt-3 text-sm font-mono text-gray-700">#FF0000</p>
+            </div>
+          </div>
+          <div className="flex justify-center">
+            <img src="/src/images/FontFace.png" alt="Font Faces" />
+          </div>
+        </div>
       </div>
     </div>
   );
