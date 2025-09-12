@@ -142,7 +142,11 @@ const DesignSolutions = () => {
               <p className="mt-3 text-sm font-mono text-gray-700">#FF0000</p>
             </div>
           </div>
-          <div className="flex justify-center">
+
+          <div className="flex flex-col items-center justify-center mt-5">
+            <p className="text-gray-600 text-base max-w-4xl mx-auto text-center">
+              Font Face
+            </p>
             <img src="/src/images/FontFace.png" alt="Font Faces" />
           </div>
         </div>
