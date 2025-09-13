@@ -29,26 +29,38 @@ const DesignSolutions = () => {
             using Figma.
           </p>
           <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-3 justify-items-center">
-            <img
-              className="border-2 border-gray-300 w-full max-w-40 h-auto object-contain rounded-lg shadow-md"
-              src="/src/images/LoFi1.png"
-              alt="Low Fidelity Wireframe 1"
-            />
-            <img
-              className="border-2 border-gray-300  w-full max-w-40 h-auto object-contain rounded-lg shadow-md"
-              src="/src/images/LoFi2.png"
-              alt="Low Fidelity Wireframe 2"
-            />
-            <img
-              className="border-2 border-gray-300  w-full max-w-40 h-auto object-contain rounded-lg shadow-md"
-              src="/src/images/LoFi3.png"
-              alt="Low Fidelity Wireframe 3"
-            />
-            <img
-              className="border-2 border-gray-300  w-full max-w-40 h-auto object-contain rounded-lg shadow-md"
-              src="/src/images/LoFi4.png"
-              alt="Low Fidelity Wireframe 4"
-            />
+            <div className="flex flex-col items-center gap-2">
+              <img
+                className="border-2 border-gray-300 w-full max-w-40 h-auto object-contain rounded-lg shadow-md"
+                src="/src/images/LoFi1.png"
+                alt="Low Fidelity Wireframe 1"
+              />
+              <small>Home Screen</small>
+            </div>
+            <div className="flex flex-col items-center gap-2">
+              <img
+                className="border-2 border-gray-300  w-full max-w-40 h-auto object-contain rounded-lg shadow-md"
+                src="/src/images/LoFi2.png"
+                alt="Low Fidelity Wireframe 2"
+              />
+              <small>Run Detail Screen</small>
+            </div>
+            <div className="flex flex-col items-center gap-2">
+              <img
+                className="border-2 border-gray-300  w-full max-w-40 h-auto object-contain rounded-lg shadow-md"
+                src="/src/images/LoFi3.png"
+                alt="Low Fidelity Wireframe 3"
+              />
+              <small>Runner's Profile Screen</small>
+            </div>
+            <div className="flex flex-col items-center gap-2">
+              <img
+                className="border-2 border-gray-300  w-full max-w-40 h-auto object-contain rounded-lg shadow-md"
+                src="/src/images/LoFi4.png"
+                alt="Low Fidelity Wireframe 4"
+              />
+              <small>Run History Screen</small>
+            </div>
           </div>
         </div>
         <div className="bg-white p-8 rounded-lg shadow-lg">
