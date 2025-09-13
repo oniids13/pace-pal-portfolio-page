@@ -7,7 +7,7 @@ const Footer = () => {
   return (
     <footer className="">
       <div className="footer bg-base-100 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
-        <div className="footer-content flex justify-between items-center w-full">
+        <div className="footer-content flex flex-col sm:flex-row justify-between items-center w-full gap-4 sm:gap-0">
           {/* Icons on the left */}
           <div className="flex gap-4">
             <a
