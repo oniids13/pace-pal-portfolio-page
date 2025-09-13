@@ -15,23 +15,28 @@ const Header = () => {
         <div className="flex justify-between items-center">
           <ul className="menu menu-horizontal px-1">
             <li>
-              <a href="#home" className="font-medium">
+              <a href="#background" className="font-medium">
                 Background
               </a>
             </li>
             <li>
-              <a href="#about" className="font-medium">
+              <a href="#research" className="font-medium">
                 Research
               </a>
             </li>
             <li>
-              <a href="#services" className="font-medium">
+              <a href="#product-structure" className="font-medium">
                 Product Structure
               </a>
             </li>
             <li>
-              <a href="#contact" className="font-medium">
+              <a href="#design-solutions" className="font-medium">
                 Design Solutions
+              </a>
+            </li>
+            <li>
+              <a href="#conclussion" className="font-medium">
+                Conclussion
               </a>
             </li>
           </ul>
