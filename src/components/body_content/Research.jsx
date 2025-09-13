@@ -48,7 +48,7 @@ const Research = () => {
           <p className="text-base pb-5">
             <strong>Opportunity Areas for PacePal:</strong>
           </p>
-          <div className="flex justify-between gap-4 sm:px-6 lg:px-8 py-8">
+          <div className="flex flex-col sm:flex-row justify-between gap-4 sm:px-6 lg:px-8 py-8">
             <div className="bg-sky-300 p-4 rounded-lg shadow-lg flex flex-col items-center gap-2 flex-1">
               <HandshakeIcon fontSize="large" />
               <p className="text-sm text-center">
