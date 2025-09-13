@@ -6,7 +6,7 @@ const Header = () => {
         <div className="flex-1">
           <img
             className="w-30 "
-            src="/src/images/personal_logo.png"
+            src="/images/personal_logo.png"
             alt="PacePal Logo"
           />
         </div>

@@ -23,7 +23,7 @@ const Research = () => {
           <div className="w-full max-w-6xl mx-auto">
             <img
               className="w-full h-auto object-contain rounded-lg shadow-md"
-              src="/src/images/comp_analysis.png"
+              src="/images/comp_analysis.png"
               alt="Competitive Analysis"
             />
           </div>
@@ -106,12 +106,12 @@ const Research = () => {
           <div>
             <img
               className="w-full h-auto object-contain rounded-lg shadow-md"
-              src="/src/images/persona_1.png"
+              src="/images/persona_1.png"
               alt="Persona"
             />
             <img
               className="w-full h-auto object-contain rounded-lg shadow-md"
-              src="/src/images/persona_2.png"
+              src="/images/persona_2.png"
               alt="Persona"
             />
           </div>

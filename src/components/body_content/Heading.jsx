@@ -90,7 +90,7 @@ const Heading = () => {
                   ? "transform translate-x-0 opacity-100"
                   : "transform translate-x-full opacity-0"
               }`}
-              src="/src/images/home-screen.png"
+              src="/images/home-screen.png"
               alt="Home Screen"
               style={{ transitionDelay: "0.2s" }}
             />
@@ -100,7 +100,7 @@ const Heading = () => {
                   ? "transform translate-x-0 opacity-100"
                   : "transform translate-x-full opacity-0"
               }`}
-              src="/src/images/run-detail.png"
+              src="/images/run-detail.png"
               alt="Run Detail Screen"
               style={{ transitionDelay: "0.4s" }}
             />

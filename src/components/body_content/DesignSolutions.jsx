@@ -18,7 +18,7 @@ const DesignSolutions = () => {
           <div className="flex justify-center">
             <img
               className="w-150 h-auto object-contain rounded-lg shadow-md"
-              src="/src/images/Paper-wireframe.jpg"
+              src="/images/Paper-wireframe.jpg"
               alt="Paper Wireframe"
             />
           </div>
@@ -35,7 +35,7 @@ const DesignSolutions = () => {
             <div className="flex flex-col items-center gap-2">
               <img
                 className="border-2 border-gray-300 w-full max-w-40 h-auto object-contain rounded-lg shadow-md"
-                src="/src/images/LoFi1.png"
+                src="/images/LoFi1.png"
                 alt="Low Fidelity Wireframe 1"
               />
               <small>Home Screen</small>
@@ -43,7 +43,7 @@ const DesignSolutions = () => {
             <div className="flex flex-col items-center gap-2">
               <img
                 className="border-2 border-gray-300  w-full max-w-40 h-auto object-contain rounded-lg shadow-md"
-                src="/src/images/LoFi2.png"
+                src="/images/Lofi2.png"
                 alt="Low Fidelity Wireframe 2"
               />
               <small>Run Detail Screen</small>
@@ -51,7 +51,7 @@ const DesignSolutions = () => {
             <div className="flex flex-col items-center gap-2">
               <img
                 className="border-2 border-gray-300  w-full max-w-40 h-auto object-contain rounded-lg shadow-md"
-                src="/src/images/LoFi3.png"
+                src="/images/LoFi3.png"
                 alt="Low Fidelity Wireframe 3"
               />
               <small>Runner's Profile Screen</small>
@@ -59,7 +59,7 @@ const DesignSolutions = () => {
             <div className="flex flex-col items-center gap-2">
               <img
                 className="border-2 border-gray-300  w-full max-w-40 h-auto object-contain rounded-lg shadow-md"
-                src="/src/images/LoFi4.png"
+                src="/images/LoFi4.png"
                 alt="Low Fidelity Wireframe 4"
               />
               <small>Run History Screen</small>
@@ -77,47 +77,47 @@ const DesignSolutions = () => {
           <div className="grid grid-cols-3 gap-4 justify-items-center">
             <img
               className="border-2 border-gray-300 w-full max-w-60 h-auto object-contain rounded-lg shadow-md"
-              src="/src/images/HiFi1.png"
+              src="/images/HiFi1.png"
               alt="High Fidelity Mockup 1"
             />
             <img
               className="border-2 border-gray-300 w-full max-w-60 h-auto object-contain rounded-lg shadow-md"
-              src="/src/images/HiFi2.png"
+              src="/images/HiFi2.png"
               alt="High Fidelity Mockup 2"
             />
             <img
               className="border-2 border-gray-300 w-full max-w-60 h-auto object-contain rounded-lg shadow-md"
-              src="/src/images/HiFi3.png"
+              src="/images/HiFi3.png"
               alt="High Fidelity Mockup 3"
             />
             <img
               className="border-2 border-gray-300 w-full max-w-60 h-auto object-contain rounded-lg shadow-md"
-              src="/src/images/HiFi4.png"
+              src="/images/HiFi4.png"
               alt="High Fidelity Mockup 4"
             />
             <img
               className="border-2 border-gray-300 w-full max-w-60 h-auto object-contain rounded-lg shadow-md"
-              src="/src/images/HiFi5.png"
+              src="/images/HiFi5.png"
               alt="High Fidelity Mockup 5"
             />
             <img
               className="border-2 border-gray-300 w-full max-w-60 h-auto object-contain rounded-lg shadow-md"
-              src="/src/images/HiFi6.png"
+              src="/images/HiFi6.png"
               alt="High Fidelity Mockup 6"
             />
             <img
               className="border-2 border-gray-300 w-full max-w-60 h-auto object-contain rounded-lg shadow-md"
-              src="/src/images/HiFi7.png"
+              src="/images/HiFi7.png"
               alt="High Fidelity Mockup 7"
             />
             <img
               className="border-2 border-gray-300 w-full max-w-60 h-auto object-contain rounded-lg shadow-md"
-              src="/src/images/HiFi8.png"
+              src="/images/HiFi8.png"
               alt="High Fidelity Mockup 8"
             />
             <img
               className="border-2 border-gray-300 w-full max-w-60 h-auto object-contain rounded-lg shadow-md"
-              src="/src/images/HiFi9.png"
+              src="/images/HiFi9.png"
               alt="High Fidelity Mockup 9"
             />
           </div>
@@ -162,7 +162,7 @@ const DesignSolutions = () => {
             <p className="text-gray-600 text-base max-w-4xl mx-auto text-center">
               Font Face
             </p>
-            <img src="/src/images/FontFace.png" alt="Font Faces" />
+            <img src="/images/FontFace.png" alt="Font Faces" />
           </div>
         </div>
       </div>

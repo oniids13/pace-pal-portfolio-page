@@ -18,7 +18,7 @@ const ProductStructure = () => {
         <div className="flex justify-center">
           <img
             className="w-150 h-auto object-contain rounded-lg shadow-md"
-            src="/src/images/IA.png"
+            src="/images/IA.png"
             alt="Product Structure"
           />
         </div>
