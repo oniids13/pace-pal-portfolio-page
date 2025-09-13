@@ -3,6 +3,7 @@ import Background from "./body_content/Background";
 import Research from "./body_content/Research";
 import ProductStructure from "./body_content/ProductStructure";
 import DesignSolutions from "./body_content/DesignSolutions";
+import Conclussion from "./body_content/Conclussion";
 
 const Body = () => {
   return (
@@ -14,6 +15,7 @@ const Body = () => {
           <Research />
           <ProductStructure />
           <DesignSolutions />
+          <Conclussion />
         </div>
       </div>
     </div>
