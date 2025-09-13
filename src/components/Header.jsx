@@ -4,11 +4,13 @@ const Header = () => {
       <div className="navbar bg-base-100 shadow-md max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Logo on the left */}
         <div className="navbar-start">
-          <img
-            className="w-30"
-            src="/images/personal_logo.png"
-            alt="PacePal Logo"
-          />
+          <a href="/">
+            <img
+              className="w-30"
+              src="/images/personal_logo.png"
+              alt="PacePal Logo"
+            />
+          </a>
         </div>
 
         {/* Mobile hamburger menu */}
