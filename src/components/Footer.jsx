@@ -1,6 +1,7 @@
 import GitHubIcon from "@mui/icons-material/GitHub";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import EmailIcon from "@mui/icons-material/Email";
+import SportsBasketballIcon from "@mui/icons-material/SportsBasketball";
 
 const Footer = () => {
   return (
@@ -22,6 +23,13 @@ const Footer = () => {
               className="hover:opacity-70 transition-opacity"
             >
               <LinkedInIcon />
+            </a>
+            <a
+              href="https://dribbble.com/jose-dino-abaya"
+              target="_blank"
+              className="hover:opacity-70 transition-opacity"
+            >
+              <SportsBasketballIcon />
             </a>
             <a
               href="mailto:jdino.baya@gmail.com"
